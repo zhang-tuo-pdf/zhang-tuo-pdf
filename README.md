@@ -1,4 +1,4 @@
-## Greetings! I am Tuo Zhang, an young machine learning researcher and PhD student from USC📖.
+## Greetings! I am Tuo Zhang, an young machine learning researcher and PhD student📖.
 
 
 I am a Ph.D. student interested in federated learning, time-series forecasting and Internet of Things. I am very proud to work in vITAL lab 
