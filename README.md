@@ -11,6 +11,7 @@ I am proud as an almuni of Nankai High School, Tianjin(天津南开中学).
 - 💞️ I’m looking to collaborate on research ideas 🤝 and I am always looking for research internships
 - 📫 You could always reach me by tuozhang@usc.edu
 - 🏸️ Let's play badminton together!
+- Let's Go! Tianjin JINMENHU!
 
 <!---
 zhang-tuo-pdf/zhang-tuo-pdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
